@@ -1,5 +1,3 @@
-# Talk slides
-
 A selection of slides from my academic talks at conferences, and workshops, and occasional science vulgarization events.
 
 Author: Jean-Marie Mirebeau, CNRS director of research, Centre Borelli, ENS Paris-Saclay, University Paris Saclay
