@@ -6,6 +6,11 @@ Author: Jean-Marie Mirebeau, CNRS director of research, Centre Borelli, ENS Pari
 **Latest talk**
 --->
 
+Latest Talk : 16th Viennese conference on optimal control and games. [Solving anisotropic eikonal equations with non-causal schemes, in quasi-linear complexity](https://www.dropbox.com/scl/fi/7khnuac8qhn514ffp29ua/WienNB.pdf?rlkey=of6p1dr95ygxixgm2mov8z3qy&dl=1)
+
+
+
+
 **Exposé de vulgarisation pour collège et lycées (french)**
 
 [Trouver le plus court chemin](https://www.dropbox.com/scl/fi/2zoy6bg19sy0f3xdyy60h/Talk.pdf?rlkey=si2vt3y6mjgioy17ri5blefk6&dl=1)
@@ -14,8 +19,12 @@ Congrès Maths en Jeans, ENS Paris-Saclay, 14 avril 2023
 **Numerical methods for anisotropic eikonal equations**
 
 
-[Solving anisotropic eikonal equations with non-causal schemes, in quasi-linear complexity](https://www.dropbox.com/scl/fi/m97nkcpxsl976k4djzroq/SeiscopeNB.pdf?rlkey=7490xwvwp1yvueghn5fx7kx73&dl=1)
-Seiscope annual meeting, Grenoble, April 8th 2025
+[Solving anisotropic eikonal equations with non-causal schemes, in quasi-linear complexity](https://www.dropbox.com/scl/fi/7khnuac8qhn514ffp29ua/WienNB.pdf?rlkey=of6p1dr95ygxixgm2mov8z3qy&dl=1)
+Seiscope annual meeting, Grenoble, April 8th 2025 
+
+<!---
+https://www.dropbox.com/scl/fi/m97nkcpxsl976k4djzroq/SeiscopeNB.pdf?rlkey=7490xwvwp1yvueghn5fx7kx73&dl=1
+--->
 
 
 [Fast marching methods for subriemannian eikonal equations.](https://www.dropbox.com/scl/fi/cvhndkdg3celfbu12gq22/Talk.pdf?rlkey=mhqk2wdvymeb85kkk14uq1hfs&dl=1)
